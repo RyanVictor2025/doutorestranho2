@@ -1,0 +1,47 @@
+body{
+    margin: 0 auto;
+}
+.secao-topo{
+    background-image: url(capa.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 1900px 1000px;
+    text-align: center;
+    min-height: 1000px;
+    padding-top: 10px;
+}
+.secao-topo h1{
+    background-color: #929292;
+    width: 330px;
+    color: white;
+    margin: 20px auto;
+    margin-bottom: 0;
+}
+.secao-topo h2{
+    background-color: red;
+    width: 330px;
+    margin: 0 auto;
+    color: white;
+}
+.secao-conteudo h3, p{
+    width: 1500px;
+    text-align: justify;
+    margin: 20px auto;
+   
+}
+.secao-conteudo{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-bottom: 50px;
+    margin: 40px 300px;
+   
+}
+
+
+
+.secao-divulgacao{
+    background-image: url(img1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 1900px 1000px;
+    padding: 200px;
+}
